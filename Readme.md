@@ -37,12 +37,12 @@ Este repositório tem o intuito de estudo, catalogo e comparação de alguns dos
 
 
 
-### <img src="./images/Vue.js.png" width="25" height="25"> VueJS:<https://github.com/FabioMatech/Vue.git>
+### <img src="./images/Vue.js.png" width="25" height="25"> VueJS: <https://github.com/FabioMatech/Vue.git>
 
 
-### <img src="./images/react.png" width="25" height="25"> ReactJS:<https://github.com/FabioMatech/React.git>
+### <img src="./images/react.png" width="25" height="25"> ReactJS: <https://github.com/FabioMatech/React.git>
 
 
 
-### <img src="./images/nest.svg" width="25" height="25">  NestJs:<https://github.com/FabioMatech/Nest.git>
+### <img src="./images/nest.svg" width="25" height="25">  NestJs: <https://github.com/FabioMatech/Nest.git>
 
