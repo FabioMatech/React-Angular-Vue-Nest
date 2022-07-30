@@ -33,17 +33,16 @@ Este repositório tem o intuito de estudo, catalogo e comparação de alguns dos
 
 # Respositórios Individuais de estudo.
 
-### <img src="./images/AngularJS-Shield.svg" width="25" height="25"> AngularJS: 
+### <img src="./images/AngularJS-Shield.svg" width="25" height="25"> AngularJS: <https://github.com/FabioMatech/Angular.git>
 
-https://github.com/FabioMatech/Angular.git
 
-### <img src="./images/Vue.js.png" width="25" height="25"> VueJS:
 
-https://github.com/FabioMatech/Vue.git
-### <img src="./images/react.png" width="25" height="25"> ReactJS:
+### <img src="./images/Vue.js.png" width="25" height="25"> VueJS:<https://github.com/FabioMatech/Vue.git>
 
-https://github.com/FabioMatech/React.git
 
-### <img src="./images/nest.svg" width="25" height="25">  NestJs:
+### <img src="./images/react.png" width="25" height="25"> ReactJS:<https://github.com/FabioMatech/React.git>
 
-https://github.com/FabioMatech/Nest.git
+
+
+### <img src="./images/nest.svg" width="25" height="25">  NestJs:<https://github.com/FabioMatech/Nest.git>
+
