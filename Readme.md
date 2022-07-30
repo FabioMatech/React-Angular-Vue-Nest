@@ -1,4 +1,5 @@
 # Breve Resumo
+
 Este repositório tem o intuito de estudo, catalogo e comparação de alguns dos principais frameworks disponiveis no mercado em 2022, ligados ao uso do javascript e typescript.
 
 # Tecnologias Estudadas
@@ -13,7 +14,7 @@ Este repositório tem o intuito de estudo, catalogo e comparação de alguns dos
 
 
 
-## Frameworks
+## Bibliotecas e Frameworks
 
 ### <img src="./images/AngularJS-Shield.svg" width="25" height="25"> AngularJS: <https://angularjs.org/>
 
